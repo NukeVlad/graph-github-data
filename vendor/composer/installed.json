@@ -1,0 +1,31 @@
+[
+    {
+        "name": "tan-tan-kanarek/github-php-client",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tan-tan-kanarek/github-php-client.git",
+            "reference": "864c164b5332b388dc443b846ed1e652969a0625"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tan-tan-kanarek/github-php-client/zipball/864c164b5332b388dc443b846ed1e652969a0625",
+            "reference": "864c164b5332b388dc443b846ed1e652969a0625",
+            "shasum": ""
+        },
+        "time": "2016-10-18 08:26:53",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "client/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "proprietary"
+        ],
+        "description": "PHP client for the Github API"
+    }
+]
