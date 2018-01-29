@@ -28,20 +28,7 @@ Chú ý chuẩn hóa tác giả nếu muốn tại:
 
 ```php
 $Array_Link = array(
-    'contact@vinades.vn' => 'vinades',
-    'anhtu@vinades.vn' => 'anhtunguyen',
-    'vuthao27@gmail.com' => 'vuthao',
-    'phantandung92@gmail.com' => 'hoaquynhtim99',
-    'anhyeuviolet@users.noreply.github.com' => 'anhyeuviolet',
-    'hongoctrien@2mit.org' => 'mynukeviet',
-    'thehung@vinades.vn' => 'thehung',
-    'thao@vinades.vn' => 'vinades',
-    'thinhwebhp@gmail.com' => 'trinhthinhvn',
-    'nguyentiendat713@gmail.com' => 'anhyeuviolet',
-    'contact@tdfoss.vn' => 'tdfoss',
-    'kid.apt@gmail.com' => 'thangbv',
-    'thuvp95@gmail.com' => 'thuvp1995',
-    'h.tuyen1994@gmail.com' => 'hoang tuyen',
+    .....
 );
 ```
 
